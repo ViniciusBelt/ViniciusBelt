@@ -20,7 +20,6 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ViniciusBelt&show_icons=true&count_private=true&theme=midnight-purple" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusBelt&repo=Portal-de-Solicitacoes-Laravel&theme=midnight-purple" width="350"></a>
 </p>
 
 ## Formação
@@ -81,3 +80,7 @@
 &nbsp;<img src="https://img.shields.io/badge/intel-core%20i7%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 &nbsp;<img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 &nbsp;<img src="https://img.shields.io/badge/nvidia-gtx%201080-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+
+## Repo
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusBelt&repo=Portal-de-Solicitacoes-Laravel&theme=midnight-purple" width="350">
