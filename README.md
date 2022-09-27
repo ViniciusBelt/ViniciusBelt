@@ -90,5 +90,5 @@
 </p>
 
 <p>
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+  ![GitHub Snake dark](https://github.com/ViniciusBelt/ViniciusBelt/blob/main/github-snake-dark.svg#gh-dark-mode-only)
 </p>
