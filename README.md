@@ -84,11 +84,9 @@
 ## Repo
 
 <p>
-<a href="https://github.com/ViniciusBelt/Portal-de-Solicitacoes-Laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusBelt&repo=Portal-de-Solicitacoes-Laravel&theme=midnight-purple" width="350">
+<a href="https://github.com/ViniciusBelt/Portal-de-Solicitacoes-Laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusBelt&repo=Portal-de-Solicitacoes-Laravel&theme=midnight-purple" width="350"></a>
 
-<a href="https://github.com/ViniciusBelt/Conversa-Whatsapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusBelt&repo=Conversa-Whatsapp&theme=midnight-purple" width="350">
+<a href="https://github.com/ViniciusBelt/Conversa-Whatsapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusBelt&repo=Conversa-Whatsapp&theme=midnight-purple" width="350"></a>
 </p>
 
-<p>
-  ![GitHub Snake dark](https://github.com/ViniciusBelt/ViniciusBelt/blob/main/github-snake-dark.svg#gh-dark-mode-only)
-</p>
+![GitHub Snake dark](https://github.com/ViniciusBelt/ViniciusBelt/blob/main/github-snake-dark.svg#gh-dark-mode-only)
