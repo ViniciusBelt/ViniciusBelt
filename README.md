@@ -22,10 +22,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ViniciusBelt&show_icons=true&count_private=true&theme=midnight-purple" width="350"></a>
 </p>
 
-<p align='center'>
-  ![GitHub Snake dark](https://github.com/ViniciusBelt/ViniciusBelt/blob/main/github-snake-dark.svg#gh-dark-mode-only)
-</p>
-
 ## Formação
 <details>
   <summary>📖 **Ciências da Computação**</summary>
@@ -92,3 +88,5 @@
 
 <a href="https://github.com/ViniciusBelt/Conversa-Whatsapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusBelt&repo=Conversa-Whatsapp&theme=midnight-purple" width="350"></a>
 </p>
+
+![GitHub Snake dark](https://github.com/ViniciusBelt/ViniciusBelt/blob/main/github-snake-dark.svg#gh-dark-mode-only)
