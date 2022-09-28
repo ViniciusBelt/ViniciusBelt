@@ -81,12 +81,4 @@
 &nbsp;<img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 &nbsp;<img src="https://img.shields.io/badge/nvidia-gtx%201080-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 
-## Repo
-
-<p>
-<a href="https://github.com/ViniciusBelt/Portal-de-Solicitacoes-Laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusBelt&repo=Portal-de-Solicitacoes-Laravel&theme=midnight-purple" width="350"></a>
-
-<a href="https://github.com/ViniciusBelt/Conversa-Whatsapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusBelt&repo=Conversa-Whatsapp&theme=midnight-purple" width="350"></a>
-</p>
-
 ![GitHub Snake dark](https://github.com/ViniciusBelt/ViniciusBelt/blob/main/github-snake-dark.svg#gh-dark-mode-only)
