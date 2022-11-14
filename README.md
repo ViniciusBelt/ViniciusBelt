@@ -81,4 +81,4 @@
 &nbsp;<img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 &nbsp;<img src="https://img.shields.io/badge/nvidia-gtx%201080-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 
-![GitHub Commit Snake](https://github.com/ViniciusBelt/ViniciusBelt/blob/main/github-snake-dark.svg#gh-dark-mode-only)
+
