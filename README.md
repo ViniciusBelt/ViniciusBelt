@@ -18,10 +18,6 @@
   
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ViniciusBelt&show_icons=true&count_private=true&theme=midnight-purple" width="350"></a>
-</p>
-
 ## Formação
 <details>
   <summary>📖 **Ciências da Computação**</summary>
@@ -43,7 +39,7 @@
 <details>
   <summary>👨‍💻 **LINGUAGENS**</summary>
   <br/>
-  &nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   &nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   &nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   &nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -54,7 +50,7 @@
 <details>
   <summary>🚀 **FRAMEWORKS**</summary>
   <br/>
-  &nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   &nbsp;<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   &nbsp;<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   &nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
@@ -63,12 +59,13 @@
   &nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   &nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   &nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  &nbsp;<img src="https://img.shields.io/badge/springboot-339933?style=for-the-badge&logo=springboot&logoColor=white" />
 </details>
 
 <details>
   <summary>🎯 **EM APRENDIZAGEM**</summary>
   <br/>
-  &nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   &nbsp;<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   &nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
@@ -80,5 +77,3 @@
 &nbsp;<img src="https://img.shields.io/badge/intel-core%20i7%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 &nbsp;<img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 &nbsp;<img src="https://img.shields.io/badge/nvidia-gtx%201080-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-
-![GitHub Commit Snake](https://github.com/ViniciusBelt/ViniciusBelt/blob/main/github-snake-dark.svg)
