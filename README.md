@@ -11,11 +11,15 @@
 
 
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/dev-vinicius-beltran/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
+</p>
+
+<p align='center'>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBelt&layout=compact&theme=react" />
+  </a>&nbsp;&nbsp;
 </p>
 
 ## Formação
