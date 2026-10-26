@@ -24,6 +24,14 @@
 
 ## Formação
 <details>
+  <summary>📖 **IA Generativa e Aplicações com LLMs**</summary>
+  <br/>
+  📆 2026 - 2028
+  <br/>
+  📍 PUC Minas - EAD
+</details>
+
+<details>
   <summary>📖 **Ciências da Computação**</summary>
   <br/>
   📆 2022 - 2026
